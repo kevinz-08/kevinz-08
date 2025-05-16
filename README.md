@@ -220,8 +220,8 @@
   <h2>💡 Cita Inspiradora</h2>
   
   <blockquote>
-    📌 <em>"La disciplina tarde o temprano vence al talento"</em><br>
-    — <strong>Kevin S. Gutiérrez ✨</strong>
+    📌 <em>"Sustine et abstine «soporta y renuncia»"</em><br>
+    — <strong>Epicteto</strong>
   </blockquote>
   
   <br>
