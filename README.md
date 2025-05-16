@@ -195,7 +195,7 @@
 <div align="center">
   
 <a href="https://www.linkedin.com/in/kevin-gutierrez-b4214535b/"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:kevingutierrez.dev@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="mailto:paginaweboncecoal@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://github.com/kevinz-08"><img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
 <a href="https://drive.google.com/file/d/1cNCjAD3ptcl0pukEi2XHqXKm1cy1ppYb/view?usp=drive_link"><img src="https://img.shields.io/badge/-CURRICULUM-00C7B7?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="CV"/></a>
 
