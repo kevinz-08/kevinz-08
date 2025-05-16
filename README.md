@@ -50,7 +50,7 @@
   <p>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+    <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" alt="Postgres" />
   </p>
   
   <!-- Tools & Design -->
@@ -62,8 +62,15 @@
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop" />
     <img src="https://img.shields.io/badge/DaVinci%20Resolve-000000?style=for-the-badge&logo=davinci-resolve&logoColor=white" alt="DaVinci Resolve" />
   </p>
+  
+<!-- Ciberseguridad -->
+<h3>🛡️ Herramientas de Ciberseguridad</h3>
+<p>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Nmap-005F87?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+</p>
 </div>
-
 <hr>
 
 <h2 align="center">📊 Estadísticas de GitHub</h2>
