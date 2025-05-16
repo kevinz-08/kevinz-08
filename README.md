@@ -78,44 +78,57 @@
 
 <hr>
 
-<h2 align="center">🚀 Proyectos Destacados</h2>
+<h2>🚀 Proyectos Destacados</h2>
 
-<div align="center">
-
-<!-- Proyecto 1 -->
-<a href="https://github.com/kevinz-08/dattebayo-gallery">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinz-08&repo=dattebayo-gallery&theme=tokyonight&hide_border=true" />
-</a>
-
-<!-- Puedes agregar más proyectos cuando los tengas disponibles -->
-
-</div>
+<table>
+  <thead>
+    <tr>
+      <th>Proyecto</th>
+      <th>Descripción</th>
+      <th>Tecnologías</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/kevinz-08/portafolio-Kevin-Santiago" target="_blank">🎨 Portafolio Personal</a>
+      </td>
+      <td>
+        Sitio web profesional con diseño oscuro para mostrar mis proyectos, habilidades y hoja de vida.
+      </td>
+      <td>HTML, CSS, JavaScript</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/kevinz-08/app_de_ecommerce_de_ropa" target="_blank">📱 App de Ecommerce de Ropa</a>
+      </td>
+      <td>
+        Diseño mobile-first de una tienda de ropa con enfoque visual y atractivo.
+      </td>
+      <td>HTML, CSS</td>
+    </tr>
+  </tbody>
+</table>
 
 <br>
 
-<details>
-  <summary><b>💥 Detalle de proyectos</b></summary>
-  
-  <h3>Dattebayo Gallery</h3>
-  <p>Galería interactiva de personajes de Naruto con paginación dinámica.</p>
-  
-  <p><strong>Tecnologías:</strong> HTML, CSS, JavaScript, API</p>
-  
-  <p><strong>Características:</strong></p>
-  <ul>
-    <li>Filtrado de personajes por aldeas</li>
-    <li>Información detallada de cada personaje</li>
-    <li>Diseño responsivo con modo oscuro</li>
-    <li>Implementación de API para obtener datos</li>
-  </ul>
-  
-  <h3>Próximos proyectos</h3>
-  <ul>
-    <li>🌐 <strong>Portfolio personal</strong> - Sitio web para mostrar mis proyectos y habilidades</li>
-    <li>📱 <strong>Task Manager</strong> - Aplicación de gestión de tareas con React y Node.js</li>
-    <li>🛍️ <strong>E-commerce Template</strong> - Plantilla de tienda online con carrito de compras</li>
-  </ul>
-</details>
+
+<h2>🧠 Proyectos en Mente</h2>
+
+<ul>
+  <li>
+    <strong>📦 Inventario Web</strong>: Aplicación para gestionar productos, con registro, búsqueda y reportes en tiempo real. Ideal para pequeños negocios.
+  </li>
+  <li>
+    <strong>📋 To-Do App Full Stack</strong>: Lista de tareas con autenticación, guardado en base de datos y diseño oscuro responsive.
+  </li>
+  <li>
+    <strong>🎮 Mini-juego interactivo</strong>: Juego tipo trivia o "adivina el personaje" con JavaScript puro. Ideal para aprender lógica y DOM.
+  </li>
+  <li>
+    <strong>🧾 Generador de hojas de vida</strong>: Herramienta web para crear una hoja de vida visualmente atractiva y exportable a PDF.
+  </li>
+</ul>
 
 <hr>
 
@@ -129,21 +142,21 @@
         <br/>
         <b>Desarrollo</b>
         <br/>
-        <small>Mejorar habilidades avanzadas con JavaScript, React y Tailwind</small>
+        <small>Mejorar habilidades avanzadas en el FrontEnd con JavaScript, React, Tailwind y Bootstrap, y por otra parte en el BackEnd, mejorar mis hablidades en python, php, y demas.</small>
       </td>
       <td align="center">
         <img src="https://img.icons8.com/fluency/96/000000/monitor.png" width="60" alt="Design"/>
         <br/>
-        <b>Creatividad</b>
+        <b>Habilidades Extracurriculares</b>
         <br/>
-        <small>Crear una animación educativa en DaVinci Resolve sobre los páramos colombianos</small>
+        <small>Mejorar mi pensamiento critico, habilidades Blandas y mi ingles, ademas de eso entre mis metas se encuentran volverme una persona poliglota.</small>
       </td>
       <td align="center">
         <img src="https://img.icons8.com/fluency/96/000000/time.png" width="60" alt="Time"/>
         <br/>
         <b>Productividad</b>
         <br/>
-        <small>Optimizar mi tiempo y crecer como desarrollador frontend</small>
+        <small>Optimizar mi tiempo y llevar al siguiente nivel mi discplina</small>
       </td>
     </tr>
   </table>
@@ -164,24 +177,24 @@
     <tr>
       <td>
         • HTML/CSS básico<br/>
-        • JavaScript fundamentals<br/>
+        • Python<br/>
         • Técnico SENA
       </td>
       <td>
         • WordPress<br/>
-        • Tailwind CSS<br/>
-        • Desarrollo frontend
+        • Shopify<br/>
+        • Wix
       </td>
       <td>
         • CampusLands<br/>
-        • React JS<br/>
-        • Node.js/Express<br/>
-        • MongoDB
+        • Html Avanzado<br/>
+        • Css Avanzado<br/>
+        • Desarrollo FrontEnd
       </td>
       <td>
-        • React Native<br/>
-        • NextJS<br/>
-        • AWS<br/>
+        • CampusLands<br/>
+        • MySQL<br/>
+        • PHP<br/>
         • Experiencia laboral
       </td>
     </tr>
