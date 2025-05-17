@@ -4,7 +4,10 @@
 </div>
 <!-- Encabezado animado -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hola%2C+soy+Kevin+Gutiérrez;Desarrollador+de+Software+Full+Stack;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hi+There!%2C+I'm+Kevin+Gutiérrez;+Full+Stack+Developer;" alt="Typing SVG" />
+    <p>
+    <img src="https://komarev.com/ghpvc/?username=kevinz-08&label=Profile+Visits&color=00F7FF&style=flat" alt="Contador de visitas" />
+  </p>
   <p>
     <a href="https://www.linkedin.com/in/kevin-gutierrez-b4214535b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:kevingutierrez.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -13,15 +16,15 @@
   </p>
 </div>
 <hr>
-<h2 align="center">👨‍💻 Sobre mí</h2>
+<h2 align="center">👨‍💻 About Me</h2>
 <pre align="center">
-  Full Stack Developer en formación con enfoque en desarrollo web moderno. Apasionado por el frontend, <br> la lógica backend y el diseño visual. Siempre aprendiendo, siempre creando.
+  Full Stack Developer in training with a focus on modern web development. Passionate about frontend, <br> backend logic and visual design. Always learning, always creating.
 </pre>
 <br>
 
 <hr>
 
-<h2 align="center">🛠️ Stack Tecnológico</h2>
+<h2 align="center">🛠️ Technological Stack</h2>
 
 <div align="center">
   
@@ -47,7 +50,7 @@
   </p>
   
   <!-- Databases -->
-  <h3>🗄️ Bases de Datos</h3>
+  <h3>🗄️ Database</h3>
   <p>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -55,7 +58,7 @@
   </p>
   
   <!-- Tools & Design -->
-  <h3>🛠️ Herramientas & Diseño</h3>
+  <h3>🛠️ Tools & Design</h3>
   <p>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
@@ -65,7 +68,7 @@
   </p>
   
 <!-- Ciberseguridad -->
-<h3>🛡️ Herramientas de Ciberseguridad</h3>
+<h3>🛡️ Cybersecurity Tools</h3>
 <p>
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
@@ -74,7 +77,7 @@
 </div>
 <hr>
 
-<h2 align="center">📊 Estadísticas de GitHub</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kevinz-08&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
@@ -86,32 +89,32 @@
 
 <hr>
 
-<h2>🚀 Proyectos Destacados</h2>
+<h2>🚀 Featured Projects</h2>
 
 <table>
   <thead>
     <tr>
-      <th>Proyecto</th>
-      <th>Descripción</th>
-      <th>Tecnologías</th>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Technologies</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
-        <a href="https://github.com/kevinz-08/portafolio-Kevin-Santiago" target="_blank">🎨 Portafolio Personal</a>
+        <a href="https://github.com/kevinz-08/portafolio-Kevin-Santiago" target="_blank">🎨 Personal Portfolio</a>
       </td>
       <td>
-        Sitio web profesional con diseño oscuro para mostrar mis proyectos, habilidades y hoja de vida.
+        Professional website with dark design to showcase my projects, skills and resume.
       </td>
       <td>HTML, CSS, JavaScript</td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/kevinz-08/app_de_ecommerce_de_ropa" target="_blank">📱 App de Ecommerce de Ropa</a>
+        <a href="https://github.com/kevinz-08/app_de_ecommerce_de_ropa" target="_blank">📱 Clothing Ecommerce App</a>
       </td>
       <td>
-        Diseño mobile-first de una tienda de ropa con enfoque visual y atractivo.
+        Mobile-first design of a clothing store with a visual and attractive approach.
       </td>
       <td>HTML, CSS</td>
     </tr>
@@ -121,26 +124,26 @@
 <br>
 
 
-<h2>🧠 Proyectos en Mente</h2>
+<h2>🧠 Projects in Mind</h2>
 
 <ul>
   <li>
-    <strong>📦 Inventario Web</strong>: Aplicación para gestionar productos, con registro, búsqueda y reportes en tiempo real. Ideal para pequeños negocios.
+    <strong>📦 Inventario Web</strong>: Application to manage products, with registration, search and reports in real time. Ideal for small businesses.
   </li>
   <li>
-    <strong>📋 To-Do App Full Stack</strong>: Lista de tareas con autenticación, guardado en base de datos y diseño oscuro responsive.
+    <strong>📋 To-Do App Full Stack</strong>: Task list with authentication, database saving and dark responsive design.
   </li>
   <li>
-    <strong>🎮 Mini-juego interactivo</strong>: Juego tipo trivia o "adivina el personaje" con JavaScript puro. Ideal para aprender lógica y DOM.
+    <strong>🎮 Interactive mini-game</strong>: Trivia or "guess the character" type game with pure JavaScript. Ideal for learning logic and DOM.
   </li>
   <li>
-    <strong>🧾 Generador de hojas de vida</strong>: Herramienta web para crear una hoja de vida visualmente atractiva y exportable a PDF.
+    <strong>🧾 Generador de hojas de vida</strong>: Web tool to create a visually attractive resume that can be exported to PDF.
   </li>
 </ul>
 
 <hr>
 
-<h2 align="center">🎯 Retos y Objetivos</h2>
+<h2 align="center">🎯 Challenges and Objectives</h2>
 
 <div align="center">
   <table>
@@ -148,23 +151,23 @@
       <td align="center">
         <img src="https://img.icons8.com/fluency/96/000000/code.png" width="60" alt="Coding"/>
         <br/>
-        <b>Desarrollo</b>
+        <b>Development</b>
         <br/>
-        <small>Mejorar habilidades avanzadas en el FrontEnd con JavaScript, React, Tailwind y Bootstrap, y por otra parte en el BackEnd, mejorar mis hablidades en python, php, y demas.</small>
+        <small>Improve advanced skills in the FrontEnd with JavaScript, React, Tailwind and Bootstrap, and on the other hand, in the BackEnd, improve my skills in python, php, and others.</small>
       </td>
       <td align="center">
         <img src="https://img.icons8.com/fluency/96/000000/monitor.png" width="60" alt="Design"/>
         <br/>
-        <b>Habilidades Extracurriculares</b>
+        <b>Extracurricular Skills</b>
         <br/>
-        <small>Mejorar mi pensamiento critico, habilidades Blandas y mi ingles, ademas de eso entre mis metas se encuentran volverme una persona poliglota.</small>
+        <small>Improve my critical thinking, soft skills and my English, in addition to that, among my goals are becoming a polyglot person.</small>
       </td>
       <td align="center">
         <img src="https://img.icons8.com/fluency/96/000000/time.png" width="60" alt="Time"/>
         <br/>
-        <b>Productividad</b>
+        <b>Productivity</b>
         <br/>
-        <small>Optimizar mi tiempo y llevar al siguiente nivel mi discplina</small>
+        <small>Optimize my time and take my discipline to the next level</small>
       </td>
     </tr>
   </table>
@@ -172,7 +175,7 @@
 
 <hr>
 
-<h2 align="center">📈 Mi Ruta de Aprendizaje</h2>
+<h2 align="center">📈 My Learning Path</h2>
 
 <div align="center">
   <table>
@@ -211,7 +214,7 @@
 
 <hr>
 
-<h2 align="center">🌐 Conéctate Conmigo</h2>
+<h2 align="center">🌐 Let's Conect !</h2>
 
 <div align="center">
   
@@ -225,7 +228,7 @@
 <hr>
 
 <div align="center">
-  <h2>💡 Cita Inspiradora</h2>
+  <h2>💡 Inspirational Quote</h2>
   
   <blockquote>
     📌 <em>"Sustine et abstine «soporta y renuncia»"</em><br>
@@ -234,9 +237,7 @@
   
   <br>
   
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=kevinz-08&label=Visitas+al+perfil&color=00F7FF&style=flat" alt="Contador de visitas" />
-  </p>
+
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer" width="100%" alt="Footer" />
 </div>
