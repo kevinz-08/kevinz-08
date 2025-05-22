@@ -4,7 +4,7 @@
 </div>
 <!-- Encabezado animado -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hi+There!%2C+I'm+Kevin+Gutiérrez;+Full+Stack+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hi+There!%2C+I'm+Kevin+Gutiérrez;+BackEnd+Developer;" alt="Typing SVG" />
     <p>
     <img src="https://komarev.com/ghpvc/?username=kevinz-08&label=Profile+Visits&color=00F7FF&style=flat" alt="Contador de visitas" />
   </p>
