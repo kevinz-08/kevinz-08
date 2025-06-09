@@ -118,6 +118,15 @@
       </td>
       <td>HTML, CSS</td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/kevinz-08/app_de_ecommerce_de_ropa" target="_blank">⚠️ Qr Code Generator</a>
+      </td>
+      <td>
+        QR code generator from a link or url
+      </td>
+      <td>HTML, CSS and JavaScript</td>
+    </tr>
   </tbody>
 </table>
 
