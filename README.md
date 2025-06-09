@@ -102,7 +102,7 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://github.com/kevinz-08/portafolio-Kevin-Santiago" target="_blank">🎨 Personal Portfolio</a>
+        <a href="https://kevinz-08.github.io/portafolio-Kevin-Santiago/" target="_blank">🎨 Personal Portfolio</a>
       </td>
       <td>
         Professional website with dark design to showcase my projects, skills and resume.
