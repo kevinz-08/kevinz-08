@@ -111,7 +111,7 @@
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/kevinz-08/app_de_ecommerce_de_ropa" target="_blank">📱 Clothing Ecommerce App</a>
+        <a href="" target="_blank">📱 Clothing Ecommerce App</a>
       </td>
       <td>
         Mobile-first design of a clothing store with a visual and attractive approach.
@@ -120,7 +120,7 @@
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/kevinz-08/app_de_ecommerce_de_ropa" target="_blank">⚠️ Qr Code Generator</a>
+        <a href="https://kevinz-08.github.io/qr-code-generator/" target="_blank">⚠️ Qr Code Generator</a>
       </td>
       <td>
         QR code generator from a link or url
