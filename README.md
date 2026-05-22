@@ -13,7 +13,7 @@
     <a href="mailto:kevingutierrez.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
     <a href="https://github.com/kevinz-08"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
     <a href="https://drive.google.com/file/d/1gQTXLtOpv1rXSdCpJYU0BuAYzC5u3D0y/view?usp=sharing"><img src="https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="CV"/></a>
-    <a href="https://kevinz-08.github.io/portafolio-Kevin-Santiago/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="PORTFOLIO"/></a>
+    <a href="https://ksga-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="PORTFOLIO"/></a>
   </p>
 </div>
 <hr>
