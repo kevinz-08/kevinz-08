@@ -1,253 +1,166 @@
-<!-- Banner personalizado -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=200&section=header&text=Kevin%20Gutiérrez&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Banner" width="100%"/>
+  <svg width="100%" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color:#0D0D0D"/>
+        <stop offset="50%" style="stop-color:#1e1b4b"/>
+        <stop offset="100%" style="stop-color:#0D0D0D"/>
+      </linearGradient>
+      <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#A855F7"/>
+        <stop offset="100%" style="stop-color:#7C3AED"/>
+      </linearGradient>
+    </defs>
+    <!-- Background -->
+    <rect width="900" height="180" fill="url(#bgGrad)" rx="0"/>
+    <!-- Wave bottom -->
+    <path d="M0,120 C150,160 300,90 450,130 C600,170 750,100 900,130 L900,180 L0,180 Z" fill="#0D0D0D" opacity="0.6"/>
+    <path d="M0,140 C200,110 400,170 600,140 C750,120 850,155 900,145 L900,180 L0,180 Z" fill="#0D0D0D" opacity="0.9"/>
+    <!-- Decorative dots -->
+    <circle cx="60" cy="40" r="2" fill="#7C3AED" opacity="0.5"/>
+    <circle cx="120" cy="70" r="1.5" fill="#A855F7" opacity="0.4"/>
+    <circle cx="820" cy="35" r="2" fill="#7C3AED" opacity="0.5"/>
+    <circle cx="780" cy="65" r="1.5" fill="#A855F7" opacity="0.4"/>
+    <circle cx="840" cy="80" r="1" fill="#C4B5FD" opacity="0.3"/>
+    <!-- Name -->
+    <text x="450" y="82" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="42" font-weight="700" fill="url(#textGrad)" letter-spacing="2">Kevin Gutiérrez</text>
+    <!-- Subtitle -->
+    <text x="450" y="115" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="400" fill="#C4B5FD" letter-spacing="4" opacity="0.9">FOUNDER  ·  SOFTWARE ENGINEER  ·  AI EXPLORER</text>
+  </svg>
 </div>
-<!-- Encabezado animado -->
+<br/>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hi+There!%2C+I'm+Kevin+Gutiérrez;+FullStack+Developer;" alt="Typing SVG" />
-    <p>
-    <img src="https://komarev.com/ghpvc/?username=kevinz-08&label=Profile+Visits&color=00F7FF&style=flat" alt="Contador de visitas" />
-  </p>
-  <p>
-    <a href="https://www.linkedin.com/in/kevin-gutierrez-b4214535b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:kevingutierrez.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-    <a href="https://github.com/kevinz-08"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="https://drive.google.com/file/d/1gQTXLtOpv1rXSdCpJYU0BuAYzC5u3D0y/view?usp=sharing"><img src="https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="CV"/></a>
-    <a href="https://ksga-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="PORTFOLIO"/></a>
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=7C3AED&center=true&vCenter=true&multiline=true&width=580&height=70&lines=Building+AI-powered+products+that+actually+sell.;Where+clean+architecture+meets+real+business." alt="Typing SVG"/>
 </div>
-<hr>
-<h2 align="center">👨‍💻 About Me</h2>
-<pre align="center">
-  Full Stack Developer in training with a focus on modern web development. Passionate about frontend, <br> backend logic and visual design. Always learning, always creating.
-</pre>
-<br>
-
-<hr>
-
-<h2 align="center">🛠️ Technological Stack</h2>
-
+<br/>
 <div align="center">
-  
-  <!-- Frontend -->
-  <h3>👁️ Frontend</h3>
-  <p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  </p>
-  
-  <!-- Backend -->
-  <h3>⚙️ Backend</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  </p>
-  
-  <!-- Databases -->
-  <h3>🗄️ Database</h3>
-  <p>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" alt="Postgres" />
-  </p>
-  
-  <!-- Tools & Design -->
-  <h3>🛠️ Tools & Design</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop" />
-    <img src="https://img.shields.io/badge/DaVinci%20Resolve-000000?style=for-the-badge&logo=davinci-resolve&logoColor=white" alt="DaVinci Resolve" />
-  </p>
-  
-<!-- Ciberseguridad -->
-<h3>🛡️ Cybersecurity Tools</h3>
-<p>
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Nmap-005F87?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
-</p>
+  <a href="https://www.linkedin.com/in/kevin-gutierrez-b4214535b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:kevingutierrez.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/kevinz-08">
+    <img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://ksga-dev.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1gQTXLtOpv1rXSdCpJYU0BuAYzC5u3D0y/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-3B0764?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="CV"/>
+  </a>
 </div>
-<hr>
+<br/>
 
-<h2 align="center">📊 GitHub Stats</h2>
+---
+
+## 🧠 About Me
+
+I'm a Software Engineer and Founder passionate about building products that **actually sell**.
+
+I specialize in designing scalable systems with clean architecture — monorepos, modern backends, and frontends that perform. But what sets me apart is that I don't just think in code. I think in **users, funnels, and revenue**.
+
+Right now I'm diving deep into **AI** — exploring how LLMs, semantic search, and embeddings can transform the way people discover and buy products online. My goal is to build the next generation of intelligent e-commerce experiences in Latin America.
+
+> *The most valuable engineers understand both sides: how to build it and how to sell it.*
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-1e1b4b?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1e1b4b?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+
+### Backend
+![NestJS](https://img.shields.io/badge/NestJS-1e1b4b?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=6EE7B7)
+![Python](https://img.shields.io/badge/Python-1e1b4b?style=for-the-badge&logo=python&logoColor=FBBF24)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=7C3AED)
+![Prisma](https://img.shields.io/badge/Prisma-1e1b4b?style=for-the-badge&logo=prisma&logoColor=white)
+
+### Infrastructure & Tools
+![Turborepo](https://img.shields.io/badge/Turborepo-0A0A0A?style=for-the-badge&logo=turborepo&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=38BDF8)
+![Git](https://img.shields.io/badge/Git-1e1b4b?style=for-the-badge&logo=git&logoColor=F87171)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-0f172a?style=for-the-badge&logo=cloudinary&logoColor=7C3AED)
+
+### 🤖 Exploring (AI & ML)
+![LangChain](https://img.shields.io/badge/LangChain-3B0764?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/LLMs-4C1D95?style=for-the-badge&logo=openai&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector%20Databases-5B21B6?style=for-the-badge&logo=pinecone&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20Systems-6D28D9?style=for-the-badge&logo=databricks&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [🎨 Portfolio](https://ksga-dev.vercel.app/) | Personal site showcasing projects and skills | React · TailwindCSS · EmailJS |
+| [🛒 Recipe Finder App](https://recipe-finder-ksga.vercel.app/) | Recipe finder with APIs and a escalable Backend | React · Nodejs · ExpressJS · MongoDB |
+| [🛒 ANDES 3d](https://andes3d.vercel.app/) | 3D products E-commerce  | Nextjs · Nextjs API routes · PostgreSQL · Groq |
+| [⚡ QR Code Generator](https://kevinz-08.github.io/qr-code-generator/) | Generate QR codes from any URL | HTML · CSS · JS |
+
+---
+
+## 🎯 What I'm Building Toward
+
+```
+🏗️  Clean Architecture   →  Systems that scale without breaking
+🤖  AI Integration       →  Products that think, not just run
+🛒  E-commerce in LATAM  →  Smarter buying experiences
+💡  Tech meets Sales     →  Engineering with business impact
+```
+
+---
+
+## 📈 Learning Journey
+
+```
+2022              2023              2024                  2025          2026 →
+─────────────────────────────────────────────────────────────────────────────────
+HTML/CSS          WordPress         CampusLands           React          Nextjs
+Python            Shopify           Advanced HTML/CSS     Tailwind       NestJS
+SENA Tech         Lua               Frontend Dev          APIs           AI Integration
+                                                          IA             Building & Scaling
+```
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevinz-08&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kevinz-08&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinz-08&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevinz-08&bg_color=0D0D0D&color=C4B5FD&line=7C3AED&point=A855F7&area=true&area_color=4C1D95&hide_border=true" width="95%" alt="Activity Graph"/>
 </div>
-
-<hr>
-
-<h2>🚀 Featured Projects</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Technologies</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://kevinz-08.github.io/portafolio-Kevin-Santiago/" target="_blank">🎨 Personal Portfolio</a>
-      </td>
-      <td>
-        Professional website with dark design to showcase my projects, skills and resume.
-      </td>
-      <td>HTML, CSS, JavaScript</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="" target="_blank">📱 Clothing Ecommerce App</a>
-      </td>
-      <td>
-        Mobile-first design of a clothing store with a visual and attractive approach.
-      </td>
-      <td>HTML, CSS</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://kevinz-08.github.io/qr-code-generator/" target="_blank">⚠️ Qr Code Generator</a>
-      </td>
-      <td>
-        QR code generator from a link or url
-      </td>
-      <td>HTML, CSS and JavaScript</td>
-    </tr>
-  </tbody>
-</table>
-
-<br>
-
-
-<h2>🧠 Projects in Mind</h2>
-
-<ul>
-  <li>
-    <strong>📦 Inventario Web</strong>: Application to manage products, with registration, search and reports in real time. Ideal for small businesses.
-  </li>
-  <li>
-    <strong>📋 To-Do App Full Stack</strong>: Task list with authentication, database saving and dark responsive design.
-  </li>
-  <li>
-    <strong>🎮 Interactive mini-game</strong>: Trivia or "guess the character" type game with pure JavaScript. Ideal for learning logic and DOM.
-  </li>
-  <li>
-    <strong>🧾 Generador de hojas de vida</strong>: Web tool to create a visually attractive resume that can be exported to PDF.
-  </li>
-</ul>
-
-<hr>
-
-<h2 align="center">🎯 Challenges and Objectives</h2>
-
+<br/>
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.icons8.com/fluency/96/000000/code.png" width="60" alt="Coding"/>
-        <br/>
-        <b>Development</b>
-        <br/>
-        <small>Improve advanced skills in the FrontEnd with JavaScript, React, Tailwind and Bootstrap, and on the other hand, in the BackEnd, improve my skills in python, php, and others.</small>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/fluency/96/000000/monitor.png" width="60" alt="Design"/>
-        <br/>
-        <b>Extracurricular Skills</b>
-        <br/>
-        <small>Improve my critical thinking, soft skills and my English, in addition to that, among my goals are becoming a polyglot person.</small>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/fluency/96/000000/time.png" width="60" alt="Time"/>
-        <br/>
-        <b>Productivity</b>
-        <br/>
-        <small>Optimize my time and take my discipline to the next level</small>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-trophies.vercel.app/?username=kevinz-08&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=8" width="90%" alt="Trophies"/>
+</div>
+<br/>
+<div align="center">
+  <!-- Skills: Languages -->
+  <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,html,css&theme=nautilus" alt="Languages" />
+  <!-- Skills: Frameworks -->
+  <img src="https://github-widgetbox.vercel.app/api/skills?frameworks=react,next,nest,tailwind,express&theme=nautilus" alt="Frameworks" />
+  <!-- Profile widget (followers, repos, stars, commits) -->
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=kevinz-08&data=followers,repositories,stars,commits&theme=nautilus" alt="Profile Stats" />
 </div>
 
-<hr>
 
-<h2 align="center">📈 My Learning Path</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <th>2022</th>
-      <th>2023</th>
-      <th>2024</th>
-      <th>2025 (Objetivos)</th>
-    </tr>
-    <tr>
-      <td>
-        • HTML/CSS básico<br/>
-        • Python<br/>
-        • Técnico SENA
-      </td>
-      <td>
-        • WordPress<br/>
-        • Shopify<br/>
-        • Wix
-      </td>
-      <td>
-        • CampusLands<br/>
-        • Html Avanzado<br/>
-        • Css Avanzado<br/>
-        • Desarrollo FrontEnd
-      </td>
-      <td>
-        • CampusLands<br/>
-        • MySQL<br/>
-        • PHP<br/>
-        • Experiencia laboral
-      </td>
-    </tr>
-  </table>
-</div>
-
-<hr>
-
-<h2 align="center">🌐 Let's Conect !</h2>
+---
 
 <div align="center">
-  
-<a href="https://www.linkedin.com/in/kevin-gutierrez-b4214535b/"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:paginaweboncecoal@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://github.com/kevinz-08"><img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-<a href="https://drive.google.com/file/d/1cNCjAD3ptcl0pukEi2XHqXKm1cy1ppYb/view?usp=drive_link"><img src="https://img.shields.io/badge/-CURRICULUM-00C7B7?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="CV"/></a>
-
-</div>
-
-<hr>
-
-<div align="center">
-  <h2>💡 Inspirational Quote</h2>
-  
   <blockquote>
-    📌 <em>"Sustine et abstine «soporta y renuncia»"</em><br>
-    — <strong>Epicteto</strong>
+    <em>"Sustine et abstine."</em> — <strong>Epictetus</strong>
   </blockquote>
-  
-  <br>
-  
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=kevinz-08&label=Profile+Views&color=7C3AED&style=flat" alt="Views"/>
+</div>
 
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer" width="100%" alt="Footer" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer"/>
 </div>
