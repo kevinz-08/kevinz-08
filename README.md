@@ -25,12 +25,12 @@
     <!-- Name -->
     <text x="450" y="82" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="42" font-weight="700" fill="url(#textGrad)" letter-spacing="2">Kevin Gutiérrez</text>
     <!-- Subtitle -->
-    <text x="450" y="115" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="400" fill="#C4B5FD" letter-spacing="4" opacity="0.9">FOUNDER  ·  SOFTWARE ENGINEER  ·  AI EXPLORER</text>
+    <text x="450" y="115" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="400" fill="#C4B5FD" letter-spacing="4" opacity="0.9">FOUNDER  ·  SOFTWARE DEVELOPER  ·  AI EXPLORER</text>
   </svg>
 </div>
 <br/>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=7C3AED&center=true&vCenter=true&multiline=true&width=580&height=70&lines=Building+AI-powered+products+that+actually+sell.;Where+clean+architecture+meets+real+business." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=7C3AED&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Software+Developer+and+Founder+passionate;about+building+digital+solutions+that+actually+sell." alt="Typing SVG"/>
 </div>
 <br/>
 <div align="center">
@@ -56,11 +56,11 @@
 
 ## 🧠 About Me
 
-I'm a Software Engineer and Founder passionate about building products that **actually sell**.
+I'm a Software Developer and Founder passionate about building digital solutions that **actually sell**.
 
 I specialize in designing scalable systems with clean architecture — monorepos, modern backends, and frontends that perform. But what sets me apart is that I don't just think in code. I think in **users, funnels, and revenue**.
 
-Right now I'm diving deep into **AI** — exploring how LLMs, semantic search, and embeddings can transform the way people discover and buy products online. My goal is to build the next generation of intelligent e-commerce experiences in Latin America.
+I'm in constant learning mode, always exploring and deepening my skills across the stack — from **PHP**, **Laravel**, and **Symfony** on the backend, to **Next.js** and modern frontend architectures. Right now I'm also diving deep into **AI**, exploring how LLMs, semantic search, and embeddings can create smarter, more impactful digital products.
 
 > *The most valuable engineers understand both sides: how to build it and how to sell it.*
 
@@ -79,8 +79,12 @@ Right now I'm diving deep into **AI** — exploring how LLMs, semantic search, a
 ![NestJS](https://img.shields.io/badge/NestJS-1e1b4b?style=for-the-badge&logo=nestjs&logoColor=E0234E)
 ![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=6EE7B7)
 ![Python](https://img.shields.io/badge/Python-1e1b4b?style=for-the-badge&logo=python&logoColor=FBBF24)
+![PHP](https://img.shields.io/badge/PHP-0f172a?style=for-the-badge&logo=php&logoColor=777BB4)
+![Laravel](https://img.shields.io/badge/Laravel-1e1b4b?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![Symfony](https://img.shields.io/badge/Symfony-0f172a?style=for-the-badge&logo=symfony&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=7C3AED)
 ![Prisma](https://img.shields.io/badge/Prisma-1e1b4b?style=for-the-badge&logo=prisma&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
 ### Infrastructure & Tools
 ![Turborepo](https://img.shields.io/badge/Turborepo-0A0A0A?style=for-the-badge&logo=turborepo&logoColor=white)
@@ -126,13 +130,20 @@ Right now I'm diving deep into **AI** — exploring how LLMs, semantic search, a
 HTML/CSS          WordPress         CampusLands           React          Nextjs
 Python            Shopify           Advanced HTML/CSS     Tailwind       NestJS
 SENA Tech         Lua               Frontend Dev          APIs           AI Integration
-                                                          IA             Building & Scaling
+                                    Php                   IA             Symfony
+                                                          Laravel        Building & Scaling
 ```
 
 ---
 
 ## 📊 GitHub Activity
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinz-08&hide_border=true&background=0D0D0D&stroke=7C3AED&ring=A855F7&fire=A855F7&currStreakLabel=C4B5FD&sideNums=C4B5FD&sideLabels=7C3AED&currStreakNum=A855F7&dates=6B7280&border_radius=10" width="48%" alt="GitHub Streak"/>
+</div>
+<br/>
+
+<br/>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevinz-08&bg_color=0D0D0D&color=C4B5FD&line=7C3AED&point=A855F7&area=true&area_color=4C1D95&hide_border=true" width="95%" alt="Activity Graph"/>
 </div>
@@ -142,11 +153,16 @@ SENA Tech         Lua               Frontend Dev          APIs           AI Inte
 </div>
 <br/>
 <div align="center">
-  <!-- Skills: Languages -->
-  <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,html,css&theme=nautilus" alt="Languages" />
-  <!-- Skills: Frameworks -->
-  <img src="https://github-widgetbox.vercel.app/api/skills?frameworks=react,next,nest,tailwind,express&theme=nautilus" alt="Frameworks" />
-  <!-- Profile widget (followers, repos, stars, commits) -->
+  <img src="https://img.shields.io/badge/-JavaScript-C4B5FD?style=flat-square&logo=javascript&logoColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/-TypeScript-C4B5FD?style=flat-square&logo=typescript&logoColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/-Python-C4B5FD?style=flat-square&logo=python&logoColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/-PHP-C4B5FD?style=flat-square&logo=php&logoColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/-React-C4B5FD?style=flat-square&logo=react&logoColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/-Next.js-C4B5FD?style=flat-square&logo=nextdotjs&logoColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/-NestJS-C4B5FD?style=flat-square&logo=nestjs&logoColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/-Laravel-C4B5FD?style=flat-square&logo=laravel&logoColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/-Symfony-C4B5FD?style=flat-square&logo=symfony&logoColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-C4B5FD?style=flat-square&logo=tailwindcss&logoColor=0D0D0D" />
   <img src="https://github-widgetbox.vercel.app/api/profile?username=kevinz-08&data=followers,repositories,stars,commits&theme=nautilus" alt="Profile Stats" />
 </div>
 
