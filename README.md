@@ -1,32 +1,7 @@
 <div align="center">
-  <svg width="100%" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" style="stop-color:#0D0D0D"/>
-        <stop offset="50%" style="stop-color:#1e1b4b"/>
-        <stop offset="100%" style="stop-color:#0D0D0D"/>
-      </linearGradient>
-      <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#A855F7"/>
-        <stop offset="100%" style="stop-color:#7C3AED"/>
-      </linearGradient>
-    </defs>
-    <!-- Background -->
-    <rect width="900" height="180" fill="url(#bgGrad)" rx="0"/>
-    <!-- Wave bottom -->
-    <path d="M0,120 C150,160 300,90 450,130 C600,170 750,100 900,130 L900,180 L0,180 Z" fill="#0D0D0D" opacity="0.6"/>
-    <path d="M0,140 C200,110 400,170 600,140 C750,120 850,155 900,145 L900,180 L0,180 Z" fill="#0D0D0D" opacity="0.9"/>
-    <!-- Decorative dots -->
-    <circle cx="60" cy="40" r="2" fill="#7C3AED" opacity="0.5"/>
-    <circle cx="120" cy="70" r="1.5" fill="#A855F7" opacity="0.4"/>
-    <circle cx="820" cy="35" r="2" fill="#7C3AED" opacity="0.5"/>
-    <circle cx="780" cy="65" r="1.5" fill="#A855F7" opacity="0.4"/>
-    <circle cx="840" cy="80" r="1" fill="#C4B5FD" opacity="0.3"/>
-    <!-- Name -->
-    <text x="450" y="82" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="42" font-weight="700" fill="url(#textGrad)" letter-spacing="2">Kevin Gutiérrez</text>
-    <!-- Subtitle -->
-    <text x="450" y="115" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="400" fill="#C4B5FD" letter-spacing="4" opacity="0.9">FOUNDER  ·  SOFTWARE DEVELOPER  ·  AI EXPLORER</text>
-  </svg>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D0D0D,30:1e1b4b,70:7C3AED,100:0D0D0D&text=Kevin%20Guti%C3%A9rrez&section=header&fontSize=42&fontColor=C4B5FD&animation=fadeIn" width="100%"/>
+  <br/>
+  <sub><b>FOUNDER</b> · <b>SOFTWARE DEVELOPER</b> · <b>AI EXPLORER</b></sub>
 </div>
 <br/>
 <div align="center">
