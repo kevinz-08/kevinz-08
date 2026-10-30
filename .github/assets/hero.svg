@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-label="Kevin Gutiérrez — Full-stack developer">
+  <defs>
+    <radialGradient id="b-blue" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#2997FF" stop-opacity="0.28"/><stop offset="1" stop-color="#2997FF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="b-name" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#B0B0B5"/>
+    </linearGradient>
+    <clipPath id="b-c1"><rect x="40" y="40" width="600" height="340" rx="28"/></clipPath>
+  </defs>
+  <rect width="1200" height="420" fill="#000000"/>
+
+  <!-- Card 1: identity -->
+  <rect x="40" y="40" width="600" height="340" rx="28" fill="#1C1C1E"/>
+  <g clip-path="url(#b-c1)">
+    <circle cx="600" cy="400" r="260" fill="url(#b-blue)">
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+    <text x="84" y="196" font-size="64" font-weight="600" fill="url(#b-name)" letter-spacing="-2">Kevin</text>
+    <text x="84" y="264" font-size="64" font-weight="600" fill="url(#b-name)" letter-spacing="-2">Gutiérrez</text>
+    <text x="86" y="318" font-size="22" fill="#86868B">Full-stack developer</text>
+  </g>
+
+  <!-- Card 2: stack -->
+  <rect x="660" y="40" width="500" height="160" rx="28" fill="#1C1C1E"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="500" fill="#F5F5F7" text-anchor="middle">
+    <g fill="#2C2C2E">
+      <rect x="692" y="72" width="112" height="36" rx="18"/><rect x="814" y="72" width="88" height="36" rx="18"/>
+      <rect x="912" y="72" width="80" height="36" rx="18"/><rect x="1002" y="72" width="112" height="36" rx="18"/>
+      <rect x="692" y="124" width="80" height="36" rx="18"/><rect x="782" y="124" width="80" height="36" rx="18"/>
+      <rect x="872" y="124" width="80" height="36" rx="18"/><rect x="962" y="124" width="96" height="36" rx="18"/>
+    </g>
+    <text x="748" y="95">TypeScript</text><text x="858" y="95">Next.js</text><text x="952" y="95">NestJS</text><text x="1058" y="95">PostgreSQL</text>
+    <text x="732" y="147">Prisma</text><text x="822" y="147">Docker</text><text x="912" y="147">Vercel</text><text x="1010" y="147">LLMs</text>
+  </g>
+
+  <!-- Card 3: availability -->
+  <rect x="660" y="220" width="240" height="160" rx="28" fill="#1C1C1E"/>
+  <circle cx="700" cy="278" r="6" fill="#30D158">
+    <animate attributeName="opacity" values="1;0.35;1" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+    <text x="700" y="324" font-size="26" font-weight="600" fill="#F5F5F7" letter-spacing="-0.5">Available</text>
+    <text x="700" y="350" font-size="15" fill="#86868B">for new projects</text>
+  </g>
+
+  <!-- Card 4: location -->
+  <rect x="920" y="220" width="240" height="160" rx="28" fill="#1C1C1E"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+    <text x="960" y="324" font-size="26" font-weight="600" fill="#F5F5F7" letter-spacing="-0.5">Colombia</text>
+    <text x="960" y="350" font-size="15" fill="#86868B">UTC−5 · ES / EN</text>
+  </g>
+  <rect x="960" y="272" width="28" height="3" rx="1.5" fill="#2997FF"/>
+</svg>
