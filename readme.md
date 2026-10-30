@@ -32,74 +32,24 @@ Full-stack developer from Colombia 🇨🇴 building e-commerce and SaaS product
 
 ### Selected work
 
-<details open>
-  <summary><strong>🏍️ H2R Online Store</strong> · <code>e-commerce · in production</code></summary>
+<p align="center">
+  <a href="https://tiendah2r.com"><img src="./.github/assets/projects/h2r.svg" alt="H2R Online Store — motorcycle parts e-commerce in production" width="100%" /></a>
+</p>
 
-  Motorcycle-parts e-commerce for a Colombian client, live with real traffic. Turborepo monorepo with Clean Architecture, Next.js storefront, NestJS API and local payment gateways.
-
-  **Stack:** Next.js · NestJS · Prisma · PostgreSQL (Neon) · Wompi · Mercado Pago
-  **Live:** [tiendah2r.com](https://tiendah2r.com)
-
-</details>
-
-<details>
-  <summary><strong>🔧 Tienda Motek</strong> · <code>e-commerce · in production</code></summary>
-
-  A second motorcycle-parts store, built on the same battle-tested architecture as H2R. Parts, oils, tires and electrical components for riders across Colombia, with nationwide shipping, secure checkout (Wompi, Visa, Mastercard, PSE) and WhatsApp support, so the bike never stops.
-
-  **Stack:** Next.js · NestJS · Prisma · PostgreSQL · Wompi
-  **Live:** [tiendamotek.com](https://tiendamotek.com)
-
-</details>
-
-<details>
-  <summary><strong>💸 TrackApp</strong> · <code>fintech · AI</code></summary>
-
-  Personal finance for people who hate bookkeeping. Log an expense by voice or text in seconds through an iOS Shortcut, then let an AI assistant query your real transactions, simulate installments and flag duplicate charges, spending spikes and stale subscriptions.
-
-  **Stack:** Next.js 16 · TypeScript · Tailwind · Prisma · PostgreSQL (Neon) · Groq
-  **Live:** [trackceo-app.vercel.app](https://trackceo-app.vercel.app/) · **Repo:** [kevinz-08/TrackApp](https://github.com/kevinz-08/TrackApp)
-
-</details>
-
-<details>
-  <summary><strong>📡 Leads Project</strong> · <code>automation · in development</code></summary>
-
-  End-to-end lead generation, automated: it discovers businesses on Google Maps, enriches their digital presence, qualifies them with an AI agent and drafts personalized outreach, with a human approving every message before it goes out.
-
-  **Stack:** Python · JavaScript · LangGraph · Groq · PostgreSQL · Docker
-  **Repo:** [sebasBetancourt/leads-project](https://github.com/sebasBetancourt/leads-project)
-
-</details>
-
-<details>
-  <summary><strong>🧊 ANDES 3D</strong> · <code>e-commerce · AI</code></summary>
-
-  E-commerce for 3D-printed products with AI-assisted features powered by Groq.
-
-  **Stack:** Next.js · API Routes · PostgreSQL · Groq
-  **Live:** [andes3d.vercel.app](https://andes3d.vercel.app/)
-
-</details>
-
-<details>
-  <summary><strong>👁️ RetailEye</strong> · <code>hackathon · computer vision agent</code></summary>
-
-  Visual lead-prospecting agent built for the *Agents World* hackathon, combining CLIP embeddings and GPT-4o Vision inside the FiftyOne ecosystem.
-
-  **Stack:** Python · CLIP · GPT-4o Vision · FiftyOne
-  **Repo:** <!-- TODO: link al repo -->
-
-</details>
-
-<details>
-  <summary><strong>🧠 Brain Solutions</strong> · <code>agency · client work</code></summary>
-
-  My software agency: custom web apps, landing pages and e-commerce for small and mid-size businesses in LATAM.
-
-  **Site:** [brainsol.vercel.app](https://brainsol.vercel.app)
-
-</details>
+<table>
+  <tr>
+    <td width="50%"><a href="https://tiendamotek.com"><img src="./.github/assets/projects/motek.svg" alt="Tienda Motek — motorcycle parts e-commerce" width="100%" /></a></td>
+    <td width="50%"><a href="https://trackceo-app.vercel.app/"><img src="./.github/assets/projects/trackapp.svg" alt="TrackApp — personal finance with AI" width="100%" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://andes3d.vercel.app/"><img src="./.github/assets/projects/andes3d.svg" alt="ANDES 3D — 3D-printed educational materials" width="100%" /></a></td>
+    <td width="50%"><a href="https://brainsol.vercel.app"><img src="./.github/assets/projects/brainsol.svg" alt="Brain Solutions — software agency" width="100%" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/sebasBetancourt/leads-project"><img src="./.github/assets/projects/leads.svg" alt="Leads Project — automated lead generation" width="100%" /></a></td>
+    <td width="50%"><img src="./.github/assets/projects/retaileye.svg" alt="RetailEye — visual prospecting agent" width="100%" /></td>
+  </tr>
+</table>
 
 ### Activity
 
