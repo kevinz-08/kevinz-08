@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://ksga-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://brainsol.vercel.app"><img src="https://img.shields.io/badge/Brain_Solutions-7C3AED?style=for-the-badge&logo=lightning&logoColor=white" alt="Brain Solutions"/></a>
-  <a href="https://www.linkedin.com/in/kevin-gutierrez-b4214535b/"><img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:kevingutierrez.dev@gmail.com"><img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://drive.google.com/file/d/1gQTXLtOpv1rXSdCpJYU0BuAYzC5u3D0y/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-3B0764?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"/></a>
+  <a href="https://ksga-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1C1C1E?style=for-the-badge&logo=vercel&logoColor=2997FF" alt="Portfolio"/></a>
+  <a href="https://brainsol.vercel.app"><img src="https://img.shields.io/badge/Brain_Solutions-1C1C1E?style=for-the-badge&logo=lightning&logoColor=2997FF" alt="Brain Solutions"/></a>
+  <a href="https://www.linkedin.com/in/kevin-gutierrez-b4214535b/"><img src="https://img.shields.io/badge/LinkedIn-1C1C1E?style=for-the-badge&logo=linkedin&logoColor=2997FF" alt="LinkedIn"/></a>
+  <a href="mailto:kevingutierrez.dev@gmail.com"><img src="https://img.shields.io/badge/Email-1C1C1E?style=for-the-badge&logo=gmail&logoColor=2997FF" alt="Email"/></a>
+  <a href="https://drive.google.com/file/d/1gQTXLtOpv1rXSdCpJYU0BuAYzC5u3D0y/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-1C1C1E?style=for-the-badge&logo=read-the-docs&logoColor=2997FF" alt="Resume"/></a>
 </p>
 
 ### Hi, I'm Kevin 👋
@@ -43,6 +43,36 @@ Full-stack developer from Colombia 🇨🇴 building e-commerce and SaaS product
 </details>
 
 <details>
+  <summary><strong>🔧 Tienda Motek</strong> · <code>e-commerce · in production</code></summary>
+
+  A second motorcycle-parts store, built on the same battle-tested architecture as H2R. Parts, oils, tires and electrical components for riders across Colombia, with nationwide shipping, secure checkout (Wompi, Visa, Mastercard, PSE) and WhatsApp support, so the bike never stops.
+
+  **Stack:** Next.js · NestJS · Prisma · PostgreSQL · Wompi
+  **Live:** [tiendamotek.com](https://tiendamotek.com)
+
+</details>
+
+<details>
+  <summary><strong>💸 TrackApp</strong> · <code>fintech · AI</code></summary>
+
+  Personal finance for people who hate bookkeeping. Log an expense by voice or text in seconds through an iOS Shortcut, then let an AI assistant query your real transactions, simulate installments and flag duplicate charges, spending spikes and stale subscriptions.
+
+  **Stack:** Next.js 16 · TypeScript · Tailwind · Prisma · PostgreSQL (Neon) · Groq
+  **Live:** [trackceo-app.vercel.app](https://trackceo-app.vercel.app/) · **Repo:** [kevinz-08/TrackApp](https://github.com/kevinz-08/TrackApp)
+
+</details>
+
+<details>
+  <summary><strong>📡 Leads Project</strong> · <code>automation · in development</code></summary>
+
+  End-to-end lead generation, automated: it discovers businesses on Google Maps, enriches their digital presence, qualifies them with an AI agent and drafts personalized outreach, with a human approving every message before it goes out.
+
+  **Stack:** Python · JavaScript · LangGraph · Groq · PostgreSQL · Docker
+  **Repo:** [sebasBetancourt/leads-project](https://github.com/sebasBetancourt/leads-project)
+
+</details>
+
+<details>
   <summary><strong>🧊 ANDES 3D</strong> · <code>e-commerce · AI</code></summary>
 
   E-commerce for 3D-printed products with AI-assisted features powered by Groq.
@@ -74,9 +104,9 @@ Full-stack developer from Colombia 🇨🇴 building e-commerce and SaaS product
 ### Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kevinz-08/kevinz-08/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kevinz-08/kevinz-08/output/snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/kevinz-08/kevinz-08/output/snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kevinz-08/kevinz-08/output/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kevinz-08/kevinz-08/output/profile-season.svg" />
+  <img alt="3D contribution tower" src="https://raw.githubusercontent.com/kevinz-08/kevinz-08/output/profile-night-rainbow.svg" width="100%" />
 </picture>
 
 ---
